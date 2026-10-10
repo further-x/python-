@@ -1,0 +1,19 @@
+{
+  "original_rows": 8807,
+  "original_movies": 6131,
+  "repaired_duration_rows": 3,
+  "dropped_invalid_duration_rows": 0,
+  "clean_movies": 6131,
+  "duration_statistics": {
+    "count": 6131.0,
+    "mean": 99.56499755341706,
+    "std": 28.28950441612769,
+    "min": 3.0,
+    "25%": 87.0,
+    "50%": 98.0,
+    "75%": 114.0,
+    "max": 312.0
+  },
+  "unknown_country_rows": 440,
+  "unknown_rating_rows": 5
+}
