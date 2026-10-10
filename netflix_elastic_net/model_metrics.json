@@ -1,0 +1,22 @@
+{
+  "train_rows": 4904,
+  "test_rows": 1227,
+  "best_parameters": {
+    "model__alpha": 0.1,
+    "model__l1_ratio": 0.9
+  },
+  "CV_RMSE_minutes": 20.476616446462714,
+  "ElasticNet": {
+    "MAE_minutes": 14.411599583383184,
+    "RMSE_minutes": 20.09901728024803,
+    "R2": 0.4553762393436145
+  },
+  "mean_baseline": {
+    "MAE_minutes": 19.524525161835857,
+    "RMSE_minutes": 27.24629629517529,
+    "R2": -0.0008336246514366596
+  },
+  "feature_count": 144,
+  "nonzero_coefficients": 114,
+  "random_seed": 42
+}
